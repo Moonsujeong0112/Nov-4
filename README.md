@@ -35,7 +35,7 @@ Braille Translation Device Development Project
 #### H/W
 - **language** : `Python 3.9.2`
 - **IDE** : `Thony`, `PyCharm`
-- **OS** : `Window11`  
+- **OS** : `Window11`, `Geany`  
 
 
 
