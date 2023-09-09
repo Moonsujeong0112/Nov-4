@@ -40,6 +40,8 @@ Braille Translation Device Development Project
 
 
 
+
+
 ## 주요 기능
 
 
