@@ -57,3 +57,5 @@ for sent in kss.split_sentences(t):
 
 plt.imshow(img)
 plt.show()
+
+# 바뀌었나요
