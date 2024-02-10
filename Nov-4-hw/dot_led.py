@@ -686,15 +686,6 @@ def com_len(sentance):
         else:
             print_dot(com[i])
 
-
-
-#input
-sentance = ['1', '1', 'ㅇ', 'ㅝ', 'ㄹ', '4', 'ㅇ', 'ㅣ', 'ㄹ'
-           , 'ㅇ', 'ㅡ', 'ㄴ', 'ㅈ', 'ㅓ', 'ㅁ', 'ㅈ', 'ㅏ', 'ㅇ', 'ㅢ', 'ㄴ', 'ㅏ', 'ㄹ'
-           , 'ㅇ', 'ㅣ', 'ㅂ', 'ㄴ', 'ㅣ', 'ㄷ', 'ㅏ']
-#sentance = ['ㅈ', 'ㅓ', 'ㅁ', 'ㅈ', 'ㅏ', 'ㅇ', 'ㅢ', 'ㄴ', 'ㅏ', 'ㄹ'
-#           , 'ㅇ', 'ㅣ', 'ㅂ', 'ㄴ', 'ㅣ', 'ㄷ', 'ㅏ']
-
 cnt = len(sentance) #count sentence len
 sentance.append("")
 for i in range(cnt):
