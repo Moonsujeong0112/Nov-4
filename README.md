@@ -18,7 +18,7 @@ Braille Translation Device Development Project
 ## 개발기간
 
 
-2023.05.02-2023.
+2023.05.02-2023.11.15
 
 
 
