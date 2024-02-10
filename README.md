@@ -51,3 +51,7 @@ Braille Translation Device Development Project
 4. 추출한 문장 문법적/문맥적 보정
 5. 영한, 한영 번역
 6. 점자 변환
+
+## 미완성 기능
+
+1. 한글 -> 점자 변환 시각화 
